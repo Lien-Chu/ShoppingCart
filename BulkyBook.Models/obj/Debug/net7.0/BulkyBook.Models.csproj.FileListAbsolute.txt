@@ -10,3 +10,5 @@ C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.Mod
 C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.Models\obj\Debug\net7.0\refint\BulkyBook.Models.dll
 C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.pdb
 C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.Models\obj\Debug\net7.0\ref\BulkyBook.Models.dll
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Models.runtimeconfig.json
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.genruntimeconfig.cache
