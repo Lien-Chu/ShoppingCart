@@ -1,0 +1,12 @@
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\bin\Debug\net7.0\BulkyBook.DataAccess.deps.json
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\bin\Debug\net7.0\BulkyBook.DataAccess.dll
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\bin\Debug\net7.0\BulkyBook.DataAccess.pdb
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.dll
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\obj\Debug\net7.0\refint\BulkyBook.DataAccess.dll
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.pdb
+C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\BulkyBook.DataAccess\obj\Debug\net7.0\ref\BulkyBook.DataAccess.dll
