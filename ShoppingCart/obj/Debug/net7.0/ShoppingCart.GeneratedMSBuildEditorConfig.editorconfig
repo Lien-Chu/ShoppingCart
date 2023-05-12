@@ -16,16 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Vicky\source\ShoppingCartInAspDotNet\ShoppingCartSolution\ShoppingCart
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Vicky/source/ShoppingCartInAspDotNet/ShoppingCartSolution/ShoppingCart/Areas/Customer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vicky/source/ShoppingCartInAspDotNet/ShoppingCartSolution/ShoppingCart/Areas/Customer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Vicky/source/ShoppingCartInAspDotNet/ShoppingCartSolution/ShoppingCart/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Vicky/source/ShoppingCartInAspDotNet/ShoppingCartSolution/ShoppingCart/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Vicky/source/ShoppingCartInAspDotNet/ShoppingCartSolution/ShoppingCart/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Vicky/source/ShoppingCartInAspDotNet/ShoppingCartSolution/ShoppingCart/Views/Shared/Error.cshtml]
